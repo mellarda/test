@@ -16,6 +16,8 @@
 -- END HEADER
 
 
+-- Test by RC 
+
 -- Creating temporary table to store dash data
 CREATE SET VOLATILE  TABLE #VT_STATS_BASE_BALANCE ,NO FALLBACK ,
      CHECKSUM = DEFAULT,
